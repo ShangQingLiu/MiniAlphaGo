@@ -48,7 +48,6 @@ def resetBoard(board):
     board[4][4] = 'black'
 
 
-
 def getNewBoard():
     board = []
     for i in range(8):
